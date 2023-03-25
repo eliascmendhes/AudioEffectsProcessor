@@ -21,6 +21,3 @@ Música utilizada para teste: "At the Door" by The Strokes.
 
 Efeitos aplicados: Efeito de distância e aumento de graves.
 
-## Licença
-
-Este projeto é de código aberto e pode ser usado, modificado e distribuído de acordo com a licença MIT.
